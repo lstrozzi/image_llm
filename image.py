@@ -7,35 +7,35 @@ IMAGE_EXTRACTED_TEXT="""
 PRIMO UTILIZZO 
 SALE, BRILLANTANTE E DETERSIVO
  SUGGERIMENTO PER IL PRIMO UTILIZZO
- Dopo aver completato l’installazione, togliere i fermi dai cestelli e gli 
+ Dopo aver completato l'installazione, togliere i fermi dai cestelli e gli 
 elementi elastici di ritegno dal cestello superiore.
  RIFORNIMENTO DEL SERBATOIO DEL SALE
- L’uso di sale previene la formazione di CALCARE sulla superficie dei 
+ L'uso di sale previene la formazione di CALCARE sulla superficie dei 
 piatti e sui componenti della macchina.
  • È indispensabile che IL SERBATOIO DEL SALE SIA SEMPRE RI
 FORNITO.
- • È essenziale quindi che il livello di durezza dell’acqua sia stato impostato.
+ • È essenziale quindi che il livello di durezza dell'acqua sia stato impostato.
  Il serbatoio del sale è situato nella parte inferiore della lavastoviglie 
 (vedere DESCRIZIONE PRODOTTO) e deve obbligatoriamente essere ri
 RIEMPIMENTO DEL DISTRIBUTORE BRILLANTANTE
- L’utilizzo di brillantante facilita il processo di ASCIUGATURA delle stovi
+ L'utilizzo di brillantante facilita il processo di ASCIUGATURA delle stovi
 glie. La vaschetta del brillantante A dovrebbe essere riempita quando 
-l’indicatore ottico scuro posto sullo sportellino C diventa trasparente.
+l'indicatore ottico scuro posto sullo sportellino C diventa trasparente.
  C
- fornito ogni volta che la spia dell’ indicatore di RIEMPIMENTO SALE 
+ fornito ogni volta che la spia dell' indicatore di RIEMPIMENTO SALE 
 posta sul pannello comandi è illuminata.
  1. Togliere il cestello inferiore e svitare il tappo 
 del serbatoio (ruotare in senso antiorario).
- 2. Solo la prima volta: riempire d’acqua il  
+ 2. Solo la prima volta: riempire d'acqua il  
 serbatoio del sale.
- 3. Sistemare opportunamente l’imbuto (vede
+ 3. Sistemare opportunamente l'imbuto (vede
 re figura) e rifornire il serbatoio del sale fino 
-all’orlo (circa 1 kg); Non è inconsueto che 
-l’acqua trabocchi leggermente.
- 4. Togliere l’imbuto ed eliminare qualsiasi resi
-duo di sale dall’areacircostante l’apertura.
- Accertarsi che il tappo sia adeguatamente serrato per evitare l’ingresso 
-di detersivo all’interno della vaschetta durante il programma di lavag
+all'orlo (circa 1 kg); Non è inconsueto che 
+l'acqua trabocchi leggermente.
+ 4. Togliere l'imbuto ed eliminare qualsiasi resi
+duo di sale dall'areacircostante l'apertura.
+ Accertarsi che il tappo sia adeguatamente serrato per evitare l'ingresso 
+di detersivo all'interno della vaschetta durante il programma di lavag
 gio (ciò potrebbe causare il danneggiamento del dispositivo addol
 cente senza possibilità di riparazione).
  1. Aprire il distributore B esercitando opportuna pressione e quindi sollevan
@@ -45,32 +45,32 @@ vello di riferimento massimo (110 ml), ma evitandone la fuoriuscita.
 Nel caso in cui ciò si verifichi, asciugare immediatamente il liquido 
 fuoriuscito mediante un panno asciutto.
  3. Abbassare il coperchio fino ad avvertire lo scatto che ne segnala la chiusura.
- Non versare MAI il brillantante direttamente all’interno della 
+ Non versare MAI il brillantante direttamente all'interno della 
 vaschetta.
  REGOLAZIONE DEL DOSAGGIO DI BRILLANTANTE
  Se non si è completamente soddisfatti del processo di asciugatura, è 
 possibile regolare la quantità di brillantante da utilizzare.
  • Azionare la lavastoviglie agendo sul tasto  
 Ogni volta che è necessario aggiungere sale, è obbligatorio ese
-guire la procedura prima dell’inizio del ciclo di lavaggio  per evita
+guire la procedura prima dell'inizio del ciclo di lavaggio  per evita
 re rischi di corrosione.
- IMPOSTAZIONE DELLA DUREZZA DELL’ACQUA
- Per consentire che il dispositivo addolcente dell’acqua agisca al meglio, 
-è essenziale che l’impostazione del livello di durezza dell’acqua tenga 
-conto della sua durezza effettiva nell’utenza domestica. È possibile ot
-tenere il valore di durezza dell’acqua nell’utenza domestica rivolgendosi 
+ IMPOSTAZIONE DELLA DUREZZA DELL'ACQUA
+ Per consentire che il dispositivo addolcente dell'acqua agisca al meglio, 
+è essenziale che l'impostazione del livello di durezza dell'acqua tenga 
+conto della sua durezza effettiva nell'utenza domestica. È possibile ot
+tenere il valore di durezza dell'acqua nell'utenza domestica rivolgendosi 
 al proprio fornitore.
- Il valore predefinito per la durezza dell’acqua viene impostato in fabbrica.
- • Azionare l’apparecchio agendo sul tasto ACCENSIONE/SPEGNIMENTO.
- • Disattivare l’apparecchio agendo sullo stesso tasto ACCENSIONE/SPE
+ Il valore predefinito per la durezza dell'acqua viene impostato in fabbrica.
+ • Azionare l'apparecchio agendo sul tasto ACCENSIONE/SPEGNIMENTO.
+ • Disattivare l'apparecchio agendo sullo stesso tasto ACCENSIONE/SPE
 GNIMENTO.
  • Tenere premuto il tasto AVVIO/PAUSA per 5 secondi.
- • Azionare l’apparecchio agendo sul tasto ACCENSIONE/SPEGNIMENTO.
+ • Azionare l'apparecchio agendo sul tasto ACCENSIONE/SPEGNIMENTO.
  • Il livello impostato è indicato dal numero di lampeggi del LED  
 ACCENSIONE/SPEGNIMENTO. 
-• Impostare il livello di durezza dell’acqua desiderato usando la manopola 
-di SELEZIONE PROGRAMMI (vedere la TABELLA DI DUREZZA DELL’ACQUA).
- Tabella di durezza dell’acqua
+• Impostare il livello di durezza dell'acqua desiderato usando la manopola 
+di SELEZIONE PROGRAMMI (vedere la TABELLA DI DUREZZA DELL'ACQUA).
+ Tabella di durezza dell'acqua
  °dH 
 °fH 
 Livello
@@ -97,16 +97,16 @@ inglesi
  35 - 50
  61 - 90
  43 - 62
- • Disattivare l’apparecchio agendo sullo stesso tasto ACCENSIONE/SPE
+ • Disattivare l'apparecchio agendo sullo stesso tasto ACCENSIONE/SPE
 GNIMENTO.
  La procedura di impostazione è stata completata!
  Non appena completata tale procedura, avviare uno dei programmi senza carico.
  Utilizzare soltanto sale di tipo specifico per lavastoviglie.
- Dopo aver versato il sale all’interno della macchina, la spia riempimento 
+ Dopo aver versato il sale all'interno della macchina, la spia riempimento 
 SALE si spegne.
- La mancanza di sale nel serbatoio potrebbe danneggiare l’addol
-citore d’acqua e la resistenza per effetto dell’accumulo di calcare.
- L’uso del sale è consigliato con qualsiasi tipo di detersivo per lavastoviglie.
+ La mancanza di sale nel serbatoio potrebbe danneggiare l'addol
+citore d'acqua e la resistenza per effetto dell'accumulo di calcare.
+ L'uso del sale è consigliato con qualsiasi tipo di detersivo per lavastoviglie.
  ACCENSIONE/SPEGNIMENTO.
  • Disattivare la lavastoviglie utilizzando lo stesso tasto  
 ACCENSIONE/SPEGNIMENTO.
@@ -127,12 +127,12 @@ seguire le istruzioni precedenti in base alle caratteristiche del proprio
 apparecchio. 
 • In presenza di strisce con sfumature blu sulla superficie dei piatti, 
 impostare un livello di dosaggio basso (2-3).
- • In presenza di gocce d’acqua o di calcare sulla superficie dei piatti 
+ • In presenza di gocce d'acqua o di calcare sulla superficie dei piatti 
 impostare invece dosaggi alti (4-5).
  RIEMPIMENTO DEL DISTRIBUTORE DETERSIVO
  Per aprire il distributore detersivo utilizzare il dispositivo di apertu
 ra D. Versare il detersivo esclusivamente nel distributore E asciutta. 
-Mettere la dose di detersivo per il prelavaggio direttamente all’in
+Mettere la dose di detersivo per il prelavaggio direttamente all'in
 terno del distributore.
  D 
 E
@@ -152,8 +152,8 @@ butore sollevandolo fino a portare il
 dispositivo di chiusura in sede.
  Il distributore del detersivo si apre automaticamente quando previsto 
 dal programma in uso. 
-L’uso di un detersivo non specifico per lavastoviglie potrebbe cau
-sare malfunzionamenti o danni all’apparecchio
+L'uso di un detersivo non specifico per lavastoviglie potrebbe cau
+sare malfunzionamenti o danni all'apparecchio
 """
 BASE_URL="https://hedmlqljn2exux-3000.proxy.runpod.net/v1"
 
