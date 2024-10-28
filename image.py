@@ -240,7 +240,6 @@ def call_model_for_image2():
 
     print(response.choices[0].message.content)
 
-
 def call_model_for_image3():
     print("Sending image to the LLM...")
     response = client.chat.completions.create(
