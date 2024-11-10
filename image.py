@@ -1,7 +1,8 @@
 from openai import OpenAI
 import base64
 
-MODEL="meta-llama/Llama-3.2-11B-Vision-Instruct"
+# MODEL="meta-llama/Llama-3.2-11B-Vision-Instruct"
+MODEL="Qwen/Qwen2-VL-7B-Instruct"
 IMAGE_PATH="/mnt/d/repos/thalabus/AIServerWeb/wwwroot/images/test/Istruzioni_lavastoviglie2.png"
 IMAGE_EXTRACTED_TEXT="""
 PRIMO UTILIZZO 
@@ -155,7 +156,8 @@ dal programma in uso.
 L’uso di un detersivo non specifico per lavastoviglie potrebbe cau
 sare malfunzionamenti o danni all’apparecchio
 """
-BASE_URL="https://hedmlqljn2exux-3000.proxy.runpod.net/v1"
+#BASE_URL="https://hedmlqljn2exux-3000.proxy.runpod.net/v1"
+BASE_URL="http://localhost:3000/v1"
 
 client = OpenAI(base_url=BASE_URL, api_key="dummy")
 # model_list = client.models.list()
@@ -196,12 +198,12 @@ def call_model_for_image1():
     print("Sending image to the LLM...")
     response = client.chat.completions.create(
         messages=[
-            {
-                "role": "user", "content": [
-                    {"type": "text", "text": "Qui di seguito trovi un estratto del testo dall'immagine. Puoi usare questo estratto per rispondere alle domande dell'utente."},
-                    {"type": "text", "text": IMAGE_EXTRACTED_TEXT}
-                ]
-            },
+#            {
+#               "role": "user", "content": [
+#                   {"type": "text", "text": "Qui di seguito trovi un estratto del testo dall'immagine. Puoi usare questo estratto per rispondere alle domande dell'utente."},
+#                   {"type": "text", "text": IMAGE_EXTRACTED_TEXT}
+#               ]
+#           },
             {
                 "role": "user", "content": [
                     {"type": "text", "text": """Compila una tabella in markdown sulla durezza dell'acqua, copiando i dati dalla figura"""},
@@ -220,12 +222,12 @@ def call_model_for_image2():
     print("Sending image to the LLM...")
     response = client.chat.completions.create(
         messages=[
-            {
-                "role": "user", "content": [
-                    {"type": "text", "text": "Qui di seguito trovi un estratto del testo dall'immagine. Puoi usare questo estratto per rispondere alle domande dell'utente."},
-                    {"type": "text", "text": IMAGE_EXTRACTED_TEXT}
-                ]
-            },
+#            {
+#                "role": "user", "content": [
+#                    {"type": "text", "text": "Qui di seguito trovi un estratto del testo dall'immagine. Puoi usare questo estratto per rispondere alle domande dell'utente."},
+#                    {"type": "text", "text": IMAGE_EXTRACTED_TEXT}
+#                ]
+#            },
             {
                 "role": "user", "content": [
                     {"type": "text", "text": """A quanti gradi tedeschi corrisponde il livello "Dolce" della durezza dell'acqua?"""},
@@ -244,12 +246,12 @@ def call_model_for_image3():
     print("Sending image to the LLM...")
     response = client.chat.completions.create(
         messages=[
-            {
-                "role": "user", "content": [
-                    {"type": "text", "text": "Qui di seguito trovi un estratto del testo dall'immagine. Puoi usare questo estratto per rispondere alle domande dell'utente."},
-                    {"type": "text", "text": IMAGE_EXTRACTED_TEXT}
-                ]
-            },
+#            {
+#                "role": "user", "content": [
+#                    {"type": "text", "text": "Qui di seguito trovi un estratto del testo dall'immagine. Puoi usare questo estratto per rispondere alle domande dell'utente."},
+#                    {"type": "text", "text": IMAGE_EXTRACTED_TEXT}
+#                ]
+#            },
             {
                 "role": "user", "content": [
                     {"type": "text", "text": """Trascrivi parola per parola, il contenuto del capitolo 'REGOLAZIONE DEL DOSAGGIO DI BRILLANTANTE'.
